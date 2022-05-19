@@ -60,5 +60,5 @@ jobs:
         username: ${{github.actor}}
         password: ${{secrets.PAT_TOKEN}}
         registry: docker.pkg.github.com
-        repository: khalidzeroual2/devops/tic-tac-toe
+        repository: khalidzeroual2/devopslogbook3/tic-tac-toe
         tag_with_sha: true
